@@ -1,3 +1,22 @@
+# 借鉴一下别人写的库. 跟自己lib-x.com的想法有点像.
+- 路漫漫其修远兮 吾将上下而求索
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # The Treasure Box Library 
 
 [![Build Status](https://api.travis-ci.org/waruqi/tbox.svg)](https://travis-ci.org/waruqi/tbox) [![codecov](https://codecov.io/gh/waruqi/tbox/branch/master/graph/badge.svg)](https://codecov.io/gh/waruqi/tbox) [![Join the chat at https://gitter.im/waruqi/tbox](https://badges.gitter.im/waruqi/tbox.svg)](https://gitter.im/waruqi/tbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![donate](http://tboox.org/static/img/donate.svg)](http://tboox.org/donation/)
